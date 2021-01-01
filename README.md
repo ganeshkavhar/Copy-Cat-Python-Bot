@@ -1,2 +1,2 @@
-# Copy-Cat-Python-Bot
-Copy Cat Bot App
+# Copy-Cat-Bot
+NLP project
